@@ -1,8 +1,8 @@
-streamlit
+fastapi
+uvicorn
+python-multipart
 tensorflow
 librosa
-soundfile
 numpy
-pandas
 joblib
-matplotlib
+scikit-learn
